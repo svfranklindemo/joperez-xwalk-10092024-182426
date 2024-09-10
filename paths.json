@@ -1,8 +1,7 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json",
-    "/content/xsc-xwalk-site/configuration.json:/configuration.json"
+    "/content/joperez/Projects/:/",
+    "/content/joperez/Projects/metadata.json:/metadata.json",
+    "/content/joperez/Projects/redirects.json:/redirects.json"
   ]
 }
